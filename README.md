@@ -1,2 +1,5 @@
-# inspire-excellence-coc
-A Code of Conduct that raises the bar and inspires excellence
+# Inspire Excellence
+
+A Code of Conduct (CoC) that raises the bar by inspiring excellence.
+
+Check it out here: [CODE_OF_CONDUCT.md]
